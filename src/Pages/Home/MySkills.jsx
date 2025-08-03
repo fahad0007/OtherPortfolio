@@ -36,14 +36,7 @@ const MySkills = () => {
           </div>
         ))}
       </motion.div>
-      {/* <div>
-        {data.skills.length > initialCardCount && (
-          <button  onClick={handleShowMore} className=" custom-btn btn-3"><span>   {showMore ? 'View Less' : 'View More'} </span>
-         
-          </button>
-          
-        )}
-      </div> */}
+     
     </section>
   );
 };

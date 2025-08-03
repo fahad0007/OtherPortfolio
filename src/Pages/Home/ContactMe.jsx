@@ -11,10 +11,7 @@ const ContactMe = () => {
     <section id="Contact" className="contact--section">
       <div>
         <h2>Contact Me</h2>
-        {/* <p className="sub--title">Get In Touch</p>
-        <p className="text-lg">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, odit.
-        </p> */}
+       
       </div>
       <div className="address">
         <div className="contact-left">

@@ -21,10 +21,10 @@ const Timeline = () => {
           </div>
           <div className="body">
             <p>Excellent verbal communication skills. Ability to speak clearly and persuasively.</p>
-            {/* <img src="http://placehold.it/1000x500" alt="Graphic" /> */}
+           
             <div className="photo_size" style={{width:'420px', height:'210px', backgroundImage:'url(./img/commun.jpg)', backgroundSize:'cover', backgroundPosition:'center'}} >
             </div>
-            {/* <img src="./img/roll.jpg" style={{height:'210px' , width:'420px'}} /> */}
+            
           </div>
         </motion.div>
 
@@ -43,7 +43,7 @@ const Timeline = () => {
             <p>Building rapport with customers. Handling difficult or irate customers with patience and professionalism.</p>
             <div className="photo_size" style={{width:'420px', height:'210px', backgroundImage:'url(./img/interpersonal.jpg)', backgroundSize:'cover', backgroundPosition:'center'}} >
             </div>
-            {/* <img src="http://placehold.it/1000x500" alt="Graphic" /> */}
+            
           </div>
         </motion.div>
 
@@ -62,7 +62,7 @@ const Timeline = () => {
             <p>Ability to adapt to different customer personalities and changing circumstances. Willingness to learn and implement new techniques and strategies.</p>
             <div className="photo_size" style={{width:'420px', height:'210px', backgroundImage:'url(./img/adaptibility.jpg)', backgroundSize:'cover', backgroundPosition:'center'}} >
             </div>
-            {/* <img src="http://placehold.it/1000x500" alt="Graphic" /> */}
+         
           </div>
         </motion.div>
 
@@ -82,7 +82,7 @@ const Timeline = () => {
 </p>
  <div className="photo_size" style={{width:'420px', height:'210px', backgroundImage:'url(./img/teamwork.jpg)', backgroundSize:'cover', backgroundPosition:'center'}} >
  </div>
-            {/* <img src="http://placehold.it/1000x500" alt="Graphic" /> */}
+          
           </div>
         </motion.div>
 
@@ -102,7 +102,7 @@ const Timeline = () => {
 </p>
  <div className="photo_size" style={{width:'420px', height:'210px', backgroundImage:'url(./img/solving.jpg)', backgroundSize:'cover', backgroundPosition:'center'}} >
  </div>
-            {/* <img src="http://placehold.it/1000x500" alt="Graphic" /> */}
+         
           </div>
         </motion.div>
 
@@ -121,7 +121,7 @@ const Timeline = () => {
             <p>Efficiently managing time to handle a large volume of calls. Prioritizing tasks to meet targets and deadlines.</p>
             <div className="photo_size" style={{width:'420px', height:'210px', backgroundImage:'url(./img/time.jpg)', backgroundSize:'cover', backgroundPosition:'center'}} >
             </div>
-            {/* <img src="http://placehold.it/1000x500" alt="Graphic" /> */}
+       
           </div>
         </motion.div>
 

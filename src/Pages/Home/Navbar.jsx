@@ -37,8 +37,8 @@ function Navbar() {
     <div className="logo-div">
 
       <div style={{display:"flex"}}>
-     {/* <img src="./img/L2.png" style={{width:'130px'}} alt="" /> */}
-     <div className="logo"><a href="#">Rim<span>sha.</span></a></div>
+    
+     <div className="logo"><a href="#">Port<span>Folio.</span></a></div>
       </div>
     </div>
       <a
