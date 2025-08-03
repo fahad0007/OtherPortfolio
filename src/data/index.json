@@ -1,0 +1,78 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/solving.jpg",
+      "title": "Problem-Solving",
+      "description": "Highlighting your ability to identify issues and develop effective solutions."
+    },
+    {
+      "id": "2",
+      "src": "./img/timemngmnt.jpg",
+      "title": "Time Management",
+      "description": "Proving that you can manage your time efficiently and meet deadlines."
+    },
+    {
+      "id": "3",
+      "src": "./img/adaptibility.jpg",
+      "title": "Adaptability",
+      "description": "Indicating your ability to adjust to new situations and changes in the workplace."
+    },
+    {
+      "id": "4",
+      "src": "./img/solving.jpg",
+      "title": "Critical Thinking",
+      "description": "Showcasing your ability to analyze situations and make informed decisions."
+    }
+   
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/pg.jpg",
+      "title": "MBA",
+      "description": "Persuing MBA From Amity University",
+      "link": "Rimsha Fatima"
+    },
+    {
+      "id": "2",
+      "src": "./img/ug.jpg",
+      "title": "B.Com & M.Com",
+      "description": "Compeleted B.Com & M.Com From University Of Allahabad In 2022",
+      "link": "Rimsha Fatima"
+    },
+    {
+      "id": "3",
+      "src": "./img/inter.jpg",
+      "title": "High School & Intermediate",
+      "description": "Passed From C.B.S.E. Board In 2017 & 2019 Respectively",
+      "link": "Rimsha Fatima"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
