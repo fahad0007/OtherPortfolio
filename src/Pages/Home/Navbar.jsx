@@ -38,7 +38,7 @@ function Navbar() {
 
       <div style={{display:"flex"}}>
     
-     <div className="logo"><a href="#">Port<span>Folio.</span></a></div>
+     <div className="logo"><a href="#">Rim<span>Sha.</span></a></div>
       </div>
     </div>
       <a

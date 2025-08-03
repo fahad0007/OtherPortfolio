@@ -22,7 +22,7 @@ const AboutMe = () => {
           className="hero--section-description">
             Hello, I'm Rimsha Fatima !
             <br />
-             I’m a Maktab student who loves learning about Islam and sharing its beautiful message with others. I'm motivated to grow in my Deen and help spread peace, kindness, and understanding through simple words and actions.
+             I’m a Islamic Center student who loves learning about Islam and sharing its beautiful message with others. I'm motivated to grow in my Deen and help spread peace, kindness, and understanding through simple words and actions.
           </motion.p>
           <p className="hero--section-description">
           I strive to not only grow in my own knowledge of the Deen but also to inspire others through kindness, character, and the beautiful message of Islam.

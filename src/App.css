@@ -693,7 +693,8 @@ p {
   height: 600px;
   /* width: 100%; */
   display: flex;
-  align-items: end;
+  align-items: flex-end;
+
 }
 .address .contact-right img {
   width: 100%;
@@ -835,8 +836,10 @@ input[type="checkbox"] {
     gap: 48px 16px;
   }
   .skills--section--card {
+    width: 310px;
     gap: 28px;
   }
+
   .skills--section--card--content {
     gap: 20px;
   }
@@ -856,7 +859,7 @@ input[type="checkbox"] {
   }
   .skills--section--img img {
     /* width: 220px; */
-    width: 300px;
+    width: 250px;
   }
   .hero--section {
     padding-left: 20px;

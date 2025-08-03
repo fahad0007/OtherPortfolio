@@ -13,7 +13,7 @@ const Experience = () => {
     </div>
     
       
-      <motion.div initial={{x: -400}} whileInView={{x:0}} transition={{ type:'spring', stiffness:30}} >
+      <motion.div initial={{x: -200}} whileInView={{x:1}} transition={{ type:'spring', stiffness:30}} >
       <div className="blog-card">
         <div className="meta">
           <div
@@ -49,7 +49,7 @@ const Experience = () => {
         </div>
       </div>
       </motion.div>
-      <motion.div initial={{x:400}} whileInView={{x:0 }} transition={{ type:'spring', stiffness:30}} >
+      <motion.div initial={{x:200}} whileInView={{x:1 }} transition={{ type:'spring', stiffness:30}} >
       <div className="blog-card alt">
         <div className="meta">
           <div
