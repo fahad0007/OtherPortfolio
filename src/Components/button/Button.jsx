@@ -3,8 +3,8 @@ import './Button.css';
 
 const Button = () => {
   return (
-    <a  download="" rel="noopener noreferrer" target="_blank" className=" btn-12 custom-btn ">
-      <span>Click ↓</span><span>Download CV</span></a>
+    <a  href="https://www.instagram.com/_light_of_imaan__?igsh=aXdsY2Q3bTM2bnkw" target="_blank" className=" btn-12 custom-btn ">
+      <span>Click ↓</span><span>Instagram</span></a>
    
   )
 }
